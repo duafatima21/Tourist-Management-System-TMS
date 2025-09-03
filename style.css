@@ -1,0 +1,39 @@
+h1{border-style:10px Black; color:black; background-color:grey;}
+h1{font-family:Arial;
+text-decoration:overline underline;
+text-transform:capitalize;
+ol{list-style-type:upper alpha;}
+ul{list-style-type:disc;}
+word-spacing:10px;
+letter spacing:20px;
+font-size: 220px;
+font-size:large;}
+
+h2{font-family:Italics;
+text-decoration:overline;
+text-transform:uppercase;
+word-spacing:10px;
+letter spacing:20px;
+font-size: 120px;
+font-size:large;}
+
+p{font-family:"Times New Roman;
+text-decoration:underline;
+text-transform:lowercase;
+word-spacing:10px;
+font-size:130px;
+font-size:medium;}
+
+li{font-family:sans-serif;
+text-decoration:underline;
+text-transform:lowercase;
+word-spacing:10px;
+letter spacing:20px;
+font-size: 120px;
+font-size:small;}
+
+body{background-image:url('styles.png');
+background-repeat:no-repeat;
+background-position:Right;
+background-attachment:fixed;}
+UL{list-style-image:url('image.png');}
